@@ -165,7 +165,7 @@ cv2.destroyAllWindows()
 
 ## 📷 Preview
 
-> Include a screenshot or GIF of your app running here (optional).
+> ![Screenshot](assets/1.png)
 
 ---
 
@@ -183,10 +183,6 @@ pip install mediapipe opencv-python numpy
 ```
 
 ---
-
-## 💡 Inspired by
-
-- [MediaPipe Face Mesh Docs](https://google.github.io/mediapipe/solutions/face_mesh.html)
 
 ---
 
